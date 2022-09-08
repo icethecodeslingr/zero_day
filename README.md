@@ -1,1 +1,1 @@
-Vagrant is cool!
+Hello Ubuntu
